@@ -17,4 +17,4 @@ Default username/password: admin/admin123
 
 ## Demo 🔥
 
-![img](Screenshot-2022-08-02%20234218.jpg)
+![img](demo.jpg)
